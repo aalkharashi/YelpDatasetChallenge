@@ -1,4 +1,4 @@
-The Repo contains the files of our final submission for Yelp Dataset Challenge.
+# Yelp Dataset Challenge
 
 Team Members: Abdulwahab Abdullah Alkharashi, Naren Suri, Sravan Kumar Shankershetty, Vimalendu Shekhar.
 
